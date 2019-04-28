@@ -1,7 +1,7 @@
 
 # INTERACTIVE DATA VISUALIZATION ON CARS AND TRUCK DATASET USING PYTHON AND ALTAIR
 
-# ASSIGNMENT -2
+# ASSIGNMENT - 2
 
 ## MODULE: DATA VISUALIZATION
 
@@ -14,10 +14,6 @@
 # Sunmeet Thapar -10506082
 
 # Poonam Dhoot -10399137
-
-# Ramya Hunasghatta M -10388022
-
-# Kriti Dhyani -10505759
 
 TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
 
@@ -44,22 +40,12 @@ Contribution: Each team member has contributes and fulfild the following tasks.
 
 1.DATA FINDING, DATA UNDERSTANDING
 
-2.Which Cars/Trucks has the highest Retail Value?
+2.Insights of the data for Data Visualization.
 
-3Finding relationships of the columns from SQL.
-# RAMYA Hunasghatta M (10388022)---------------------------------------------------------------------------------------------------------
+3.Finding relationships of the columns from SQL.
 
-1.Determining initial questions for analysis
-
-2.Getting insights about the data and which attributes are related to each other.
-
-3.Top 20 terror groups by attack counts
-
-# KRITI DHYANI (10505759)---------------------------------------------------------------------------------------------------------
-
-1.
-
-The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
+# OUTPUT:
+## The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
 
 
 
