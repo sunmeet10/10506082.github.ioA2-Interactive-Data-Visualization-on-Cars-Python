@@ -44,6 +44,9 @@ Contribution: Each team member has contributes and fulfild the following tasks.
 
 3.Finding relationships of the columns from SQL.
 
+# RAMYA Hunasghatta M (10388022)----------------------------------------------------------------------------------------------------
+# KRITI DHYANI (10505759)---------------------------------------------------------------------------------------------------------
+
 # OUTPUT:
 ## The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
 
