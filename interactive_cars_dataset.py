@@ -11,12 +11,13 @@ import altair as alt
 import numpy as np
 import pandas as pd
 
-from google.colab import files
-uploaded = files.upload()
+#from google.colab import files
+#uploaded = files.upload()
 
 import io
-df2 = pd.read_excel(io.BytesIO(uploaded['04cars data.xls']))
+df2 = pd.read_excel("https://raw.githubusercontent.com/sunmeet10/10506082.github.ioA2-Interactive-Data-Visualization-on-Cars-Python/master/04cars%20data.xls")
 
+df2.head()
 input_dropdown = alt.binding_select(options=list(set(df2.TypeOfVehicle)))
 interval = alt.selection_multi(fields=['Company'])
 brush = alt.selection(type='interval', resolve='global')
