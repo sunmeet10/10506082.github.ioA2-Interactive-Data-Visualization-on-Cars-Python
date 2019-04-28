@@ -42,7 +42,7 @@ Contribution: Each team member has contributes and fulfild the following tasks.
 
 2.Insights of the data for Data Visualization.
 
-3.Finding relationships of the columns from SQL.
+3.
 
 # RAMYA Hunasghatta M (10388022)----------------------------------------------------------------------------------------------------
 # KRITI DHYANI (10505759)---------------------------------------------------------------------------------------------------------
