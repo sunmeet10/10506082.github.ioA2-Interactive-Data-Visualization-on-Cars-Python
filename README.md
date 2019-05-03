@@ -15,7 +15,7 @@
 
 # Poonam Dhoot -10399137
 
-TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
+## TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
 
 **LIBRARIES : PANDAS, NUMPY, ALTAIR (FOR INTERACTIVE VISUALIZATIONS) , FOLIUM **
 
@@ -24,28 +24,33 @@ TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
 ### relating to the size of the vehicle, and fuel efficiency.
 ### NAME:  2004 New Car and Truck Data
 ### TYPE:  Sample
-### SIZE:  428 observations, 24 variables
+### SIZE:  428 observations, 27 variables
 
 Contribution: Each team member has contributes and fulfild the following tasks.
 
 # POONAM DHOOT (10399137) ----------------------------------------------------------------------------------------------------
 
-1.Environment set setup (installation of packages / libraries)
+1.Environment Set Setup (Installation Of Packages / Libraries)
 
-2.Data Preprocessing (Data cleaning ,shaping ,Working with pandas, altair,folium and SQL)
+2.Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
 
-3.Interactive Dashboard with all interactive data visualization.
+3.Interactive Dashboard With All Interactive Data Visualization
 
 # SUNMEET THAPAR (10506082)--------------------------------------------------------------------------------------------------------
 
-1.DATA FINDING, DATA UNDERSTANDING
+1.Data Preprocessing (Data Cleaning , Shaping)
 
-2.Insights of the data for Data Visualization.
-
-3.
+2.Interactive Dashboard With All Interactive Data Visualization.
 
 # RAMYA Hunasghatta M (10388022)----------------------------------------------------------------------------------------------------
+
+1.	Determining Initial Questions For Analysis
+2.	Report
+
 # KRITI DHYANI (10505759)---------------------------------------------------------------------------------------------------------
+
+1.	Determining Initial Questions For Analysis
+2.	Getting Insights about the data and which attributes are related to each other
 
 # OUTPUT:
 ## The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
