@@ -256,5 +256,12 @@ rwdPoint = alt.Chart(df2
 
 ################
 
+dashboard = (points | histogram | (awdPoint & rwdPoint)) & (bar | carTypeBar) & common_bar
+dashboard
 
-(points | histogram | (awdPoint & rwdPoint)) & (bar | carTypeBar) & common_bar
+dashboard.save('dashboard.html')
+
+from google.colab import files
+files.download('dashboard.html')
+
+################
