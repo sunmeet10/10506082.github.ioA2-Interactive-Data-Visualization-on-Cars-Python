@@ -1,59 +1,59 @@
+# Introduction
+We have used a dataset of different types of cars and trucks. Specifications are given for 427 new vehicles for the year 2004. The attributes include price, fuel efficiency, quantitative measurements relating to the size of the vehicle. In this dataset, we have 427 observations with 27 variables. Dataset: 2004 Cars VehicleName	Model Name TypeOfVehicle	Model Type Company Brand of Car Country	Origin of Brand Sedan	Yes/No Sports_Car	Yes/No SUV	Yes/No Wagon	Yes/No Minivan	Yes/No Pickup Yes/No AWD	All-Wheel Drive? Yes/No RWD	Rear-Wheel Drive? Yes/No Retail_Price	Suggested Retail Price, what the manufacturer thinks the vehicle is worth, including adequate profit for the automaker and the dealer Dealer_Cost	Dealer Cost (or "invoice price"), what the dealership pays the manufacturer (U.S. Dollars) Engine_Size	Engine Size (liters) Cyl	Number of Cylinders HP	Horsepower City_MPG	City Miles Per Gallon Hwy_MPG	Highway Miles Per Gallon Weight	Weight (Pounds) Wheel_Base	Wheel Base (inches) Len	Length (inches) Width	Width (inches) Lat	Latitude Long	Longitude Dimension	Length x Width Avg_MPG	Mean of City_MPG & Hwy_MPG
 
-# INTERACTIVE DATA VISUALIZATION ON CARS AND TRUCK DATASET USING PYTHON AND ALTAIR
+Tools for Visualization
 
-# ASSIGNMENT - 2
+Python, Jupyter - Colab
 
-## MODULE: DATA VISUALIZATION
+Libraries : Pandas, Numpy, Altair (For Interactive Visualizations)
 
-### MSc Data Analytics
+Contribution:
 
-### DUBLIN BUSINESS SCHOOL
+Each team member has contributes and fulfilled the following tasks.
 
-**AUTHORS / TEAM MEMBERS / Student Names: ** ------------------------------------------------------------------------------------------
+Poonam Dhoot (10399137) --------------------------------------------------------------------
 
-# Sunmeet Thapar -10506082
+Environment Set Setup (Installation Of Packages / Libraries)
+Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
+Interactive Dashboard With All Interactive Data Visualization
+Report
+Sunmeet Thapar (10506082)-------------------------------------------------------------------
 
-# Poonam Dhoot -10399137
+Data Preprocessing (Data Cleaning , Shaping)
+Interactive Dashboard With All Interactive Data Visualization
+Ramya Hunasghatta M (10388022)---------------------------------------------------------------
 
-## TOOLS FOR VISUALIZATION: PYTHON , JUPYTER , ANACONDA
+Determining Initial Questions For Analysis
+Kriti Dhyani (10505759)-----------------------------------------------------------------------
 
-**LIBRARIES : PANDAS, NUMPY, ALTAIR (FOR INTERACTIVE VISUALIZATIONS) , FOLIUM **
+Determining Initial Questions For Analysis
+Getting Insights about the data and which attributes are related to each other
+Dataset Analysis: We have created a dashboard in Python that links all our visualizations and analysis.
 
-## DESCRIPTIVE ABSTRACT:
-### Specifications are given for 428 new vehicles for the 2004 year. The variables recorded include price, measurements 
-### relating to the size of the vehicle, and fuel efficiency.
-### NAME:  2004 New Car and Truck Data
-### TYPE:  Sample
-### SIZE:  428 observations, 27 variables
+To understand, let’s look at the individual aspects of the dashboard
 
-Contribution: Each team member has contributes and fulfild the following tasks.
+# 1.Horse power vs Retail price($): This scatter plots compares the horse power and retail price of each vehicle.
 
-# POONAM DHOOT (10399137) ----------------------------------------------------------------------------------------------------
 
-1.Environment Set Setup (Installation Of Packages / Libraries)
 
-2.Data Preprocessing (Data Cleaning , Shaping , Working With Pandas, Altair)
 
-3.Interactive Dashboard With All Interactive Data Visualization
 
-# SUNMEET THAPAR (10506082)--------------------------------------------------------------------------------------------------------
 
-1.Data Preprocessing (Data Cleaning , Shaping)
 
-2.Interactive Dashboard With All Interactive Data Visualization.
 
-# RAMYA Hunasghatta M (10388022)----------------------------------------------------------------------------------------------------
 
-1.	Determining Initial Questions For Analysis
-2.	Report
 
-# KRITI DHYANI (10505759)---------------------------------------------------------------------------------------------------------
 
-1.	Determining Initial Questions For Analysis
-2.	Getting Insights about the data and which attributes are related to each other
 
-# OUTPUT:
-## The image is stored in visualization.png which is a interactive dashboard containing different insights about the dataset mentioned above..
+
+
+
+
+
+
+
+
+
 
 
 
