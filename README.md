@@ -76,7 +76,7 @@ This scatter plots compares the horse power and retail price of each  vehicle.
 
 2.	Number of cars of each company:
 This bar graph gives number of records of different companies. Toyota, Mercedes and Chevrolet have the high number of records. On selecting each record the dashboard highlights the features of the particular company.
-<img src = "https://https://github.com/sunmeet10/DataViz/blob/Project-files/Images/Scatter plot.png"> 
+<img src = "https://github.com/sunmeet10/DataViz/blob/Project-files/Images/Scatter plot.png"> 
  
 3.	Country wise analysis: 
 This graph gives the country of the vehicle name along with the retail price. It is known that Germany, USA and Japan are leading manufacturers of cars. These countries manufacture cars for all price ranges. You can find maximum diversity for these countries. 
