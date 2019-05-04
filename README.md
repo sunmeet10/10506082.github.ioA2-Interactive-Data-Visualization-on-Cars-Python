@@ -53,7 +53,7 @@ Each team member has contributes and fulfilled the following tasks.
 
 
 ## Sunmeet Thapar (10506082)-------------------------------------------------------------------
-1.Environment Set Setup (Installation Of Packages / Libraries)
+1. Environment Set Setup (Installation Of Packages / Libraries)
 2.	Data Preprocessing (Data Cleaning , Shaping)
 3.	Interactive Dashboard With All Interactive Data Visualization
 
